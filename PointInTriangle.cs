@@ -4,7 +4,7 @@ public static class Geometry
 {
 
 	// Explanation of PointInTriangle method:
-	// youtu.be/KHuI9bXZS74?list=PLFt_AvWsXl0cD2LPxcjxVjWTQLxJqKpgZ
+	// youtu.be/HYAgJN3x4GA?list=PLFt_AvWsXl0cD2LPxcjxVjWTQLxJqKpgZ
 	 
 	/// Determines whether point P is inside the triangle ABC
 	public static bool PointInTriangle(Point A, Point B, Point C, Point P)
